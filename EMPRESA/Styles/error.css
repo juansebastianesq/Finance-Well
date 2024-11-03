@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f8d7da;
+    font-family: Arial, sans-serif;
+}
+
+h1.bad {
+    color: #721c24;
+    background-color: #f5c6cb;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h4.Try {
+    color: #856404;
+    margin-top: 10px;
+}
